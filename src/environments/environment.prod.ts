@@ -1,3 +1,4 @@
 export const environment = {
-  production: https://pizzeria-angular.herokuapp.com/
+  production: true,
+  serverURL: "https://pizzeria-angular.herokuapp.com"
 };
